@@ -4,6 +4,7 @@ using System.ComponentModel;
 using Unity.VisualScripting;
 using UnityEngine;
 
+//name the script with a meaningful name
 public class NewBehaviourScript : MonoBehaviour
 {
     // Start is called before the first frame update
